@@ -1,0 +1,23 @@
+{
+    "version": "1.0.0",
+    "compatibility": "3.0.7",
+    "id": "maintheme",
+    "name": "main",
+    "description": "",
+    "modules": [],
+    "repository": {
+        "username": "persontheme",
+        "name": "maintheme",
+        "branch": "main"
+    },
+    "variables": {},
+    "accent": {
+        "primary": "#071952",
+        "secondary": "#8062D6"
+    },
+    "author": {
+        "name": "Geml",
+        "contact": ""
+    }
+}
+

@@ -1,0 +1,56 @@
+#user-avatar {
+    background-image: url("https://i.imgur.com/3QLchyF.jpeg") !important;
+}
+
+#meridius-label:before {
+    content: "Music" !important;
+    font-family: Fira Sans;
+}
+
+.logo {
+    display: none;
+}
+
+#user-information__name {
+    display: none;
+}
+
+#user-information__shortname {
+    display: none;
+}
+
+#user-information:before {
+    content: "Geml" !important;
+    font-size: 20px;
+    font-weight: 700;
+    margin-top: 20px;
+}
+
+#nav-communities {
+    display: none !important;
+}
+
+#index-status {
+    display: none;
+}
+
+#index-contacts {
+    display: none !important;
+}
+
+#playing-playlist-info-title {
+    display: none;
+}
+
+#playing-playlist-cover {
+    visibility: hidden;
+}
+
+#nav-queue-cover {
+    display: none;
+}
+
+#nav-queue:before {
+    content: "M" !important;
+    font-size: 30px;
+}
